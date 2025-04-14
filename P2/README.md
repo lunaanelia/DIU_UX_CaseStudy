@@ -13,10 +13,7 @@
 
 
 ### ARQUITECTURA DE INFORMACIÓN
-* [Sitemap](./Entrega/flujo.pdf) 
-
-
-* [Breve Descripción y Labelling](./Entrega/P2.pdf) 
+* [Breve Descripción, Sitemap y Labelling](./Entrega/P2.pdf) 
 
 
 ### Prototipo Lo-FI Wireframe 
