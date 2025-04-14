@@ -17,7 +17,14 @@
 
 
 ### Prototipo Lo-FI Wireframe 
+#### a) Primer esbozo en papel
+* [Wireframe a Papel](./Entrega/Plantillas/PlantillaA)
 
+#### b) Wireframe preliminar en FIGMA
+* [Wireframe Preliminar](./Entrega/Plantillas/PlantillaB)
+
+#### c) Última versión
+* [Wireframe Final](./Entrega/Plantillas/PlantillaC)
 
 ### Conclusiones  
 Creemos que ha sido enriquecedor valorar los objetivos del bar y necesidades de los clientes y determinar como abordar un diseño que los resuelva.
