@@ -1,33 +1,28 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+* [Mapa de empatía](./Entrega/mapa.pdf)
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* [ScopeCanvas](./Entrega/ScopeCanvas.pdf)
 
 
 ### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
+* [User/Task flow](./Entrega/flujo.pdf)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
+* [Sitemap](./Entrega/flujo.pdf) 
 
-* Sitemap 
-* Labelling 
+
+* [Breve Descripción y Labelling](./Entrega/P2.pdf) 
 
 
 ### Prototipo Lo-FI Wireframe 
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Creemos que ha sido enriquecedor valorar los objetivos del bar y necesidades de los clientes y determinar como abordar un diseño que los resuelva.
+La parte del diseño de la web ha sido lo que más complicado nos ha parecido, ya que cuesta dividir la web en las páginas y saber como colocar los distintos elementos en cada página.
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
