@@ -22,9 +22,7 @@
 
 #### b) Wireframe preliminar en FIGMA
 * [Wireframe Preliminar](./Entrega/Plantillas/PlantillaB)
-
-#### c) Última versión
-* [Wireframe Final](./Entrega/Plantillas/PlantillaC)
+(En la página de la actividad de cada día, planterameos cambiar su diseño para distinguir mejor el menú de las actividades, dandole más separación. Y también cambiar el modo puzzle a poner el texto por un lado y las imágenes por otro)
 
 ### Conclusiones  
 Creemos que ha sido enriquecedor valorar los objetivos del bar y necesidades de los clientes y determinar como abordar un diseño que los resuelva.
