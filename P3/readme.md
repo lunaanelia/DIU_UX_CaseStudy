@@ -5,7 +5,7 @@
 - [Mockup: LAYOUT HI-FI](./layout+animacion)
 - Publicación del Case Study
 
-## Conclusiones
+## Conclusiones
 Pensamos que esta práctica ha sido entretenida. Sin embargo algo larga de hacer, especialmente la parte del layupout y animación. Débido a la repetición y variantes de las distintas pantallas de la página.
 
 ## Funcionamiento del figma
