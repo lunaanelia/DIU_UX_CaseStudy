@@ -11,7 +11,7 @@
 ### 30/5/2025
 
 
-[Enlace a GITHUB del proyecto]
+[[Enlace a GITHUB del proyecto](https://github.com/lunaanelia/DIU_UX_CaseStudy)]
 
 
 ### Realizado por: DIU2.com
