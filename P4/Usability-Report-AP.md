@@ -130,7 +130,7 @@ Ambos tienen una opinión de que la página no está cargada y que no es difíci
 
 
 
-Como hemos visto en el SUS el valor que dan ambos, nos dice que la página es aceptable. Por lo tanto la página es usable por usuarios con conocimientos básicos.
+Como hemos visto en el SUS el valor que dan ambos, nos dice que la página es aceptable, ya que se encuentra en un nivel B. Por lo tanto la página es usable por usuarios con conocimientos básicos.
 
 En cuanto al eyetracking vemos que más o menos ambos se fijan en lo mismo, siendo la parte que más mira el menú y no tanto la parte del login y en la otra foto vemos que ven la imagen, leen más o menos el texto, pero no se fijan en el botón “DISPONIBILIDAD” como hemos dicho anteriormente. Esto puede ser un indicativo de que el texto no es representativo, con lo que quiere hacer el botón o simplemente no llama la atención.
 
