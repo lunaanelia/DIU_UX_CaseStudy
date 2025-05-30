@@ -1,7 +1,7 @@
 Pracita de DIU2.AP
 
 | USUARIO | 1 | 2 |
--------------------
+---------- | -- | -- |
 | ¿Reservarias online? | 10 | 10 |
 | ¿Te gusta probar comidas nuevas? | 8 | 10 |
 | ¿Te gusta realizar actividades nuevas? | 10 | 10 |
