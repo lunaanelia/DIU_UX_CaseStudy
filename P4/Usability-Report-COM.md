@@ -116,7 +116,7 @@ Ambos tienen una opinión de que la página no está cargada y que no es difíci
 
 
 
-Como hemos visto en el SUS el valor que dan ambos (que casualmente el resultado es el mismo), nos dice que la página es aceptable. Por lo tanto la página es usable por los usuarios con conocimientos básicos.
+Como hemos visto en el SUS el valor que dan ambos (que casualmente el resultado es el mismo), nos dice que la página es aceptable, con un nivel B. Por lo tanto la página es usable por los usuarios con conocimientos básicos.
 
 En cuanto al eyetracking vemos que más o menos ambos se fijan en lo mismo en la segunda imagen, en la primera si que varia un poco. De la segunda imagen la parte que más miran es más o menos lo que pide la reserva, haciendo casi un barrido a la página entera. En cambio en la primera imagen, vemos que el primer usuario mira el botón de reserva, y el menú para navegar por distintas páginas y el segundo usuario se fija más en las imágenes y en la fecha.
 
