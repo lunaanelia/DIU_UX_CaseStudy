@@ -72,7 +72,14 @@ Hemos usado el método A/B testing, el eye tracking y el SUS para dos usuarios, 
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+| USUARIO | 1 | 2 |
+| ---------- | -- | -- |
+| ¿Reservarias online? | 10 | 10 |
+| ¿Te gusta probar comidas nuevas? | 8 | 10 |
+| ¿Te gusta realizar actividades nuevas? | 10 | 10 |
+| ¿Encuentras la página saturada? | 4 | 1 |
+| ¿Reconocerías el logo si lo vieres en otro sitio? | 10 | 6 |
+| ¿Encontraste difícil ver la información de hoy? | 1 | 3 |
 
 
 Como vemos ambos usuarios reservan en internet y les gusta probar comidas nuevas al igual que hacer actividades nuevas, por lo que son válidos para seguir haciendo los test.
@@ -84,6 +91,20 @@ Ambos tienen una opinión de que la página no está cargada y que no es difíci
 #### Resultados obtenidos
 
   ##### SUS:
+
+| USUARIO | 1 | 2 |
+| ------- | -- | -- |
+| Creo que me gustará visitar con frecuencia este website | 3 | 2 |
+| Encontré el website innecesariamente complejo | 2 | 1 |
+| Pensé que era fácil utilizar este website | 4 | 5 |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | 1 | 2 |
+| Encontré las funciones del website bastante bien integradas | 3 | 4 |
+| Pensé que había demasiada inconsistencia en el website | 1 | 1 |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5 | 5 |
+| Encontré el website muy grande al recorrerlo | 1 | 2 |
+| Me sentí muy confiado en el manejo del website | 2 | 3 |
+| Necesito aprender muchas cosas antes de manejarse en el website | 1 | 1 |
+| Resultado | 77.5 | 85 |
 
 
   ##### Eye Tracking:
