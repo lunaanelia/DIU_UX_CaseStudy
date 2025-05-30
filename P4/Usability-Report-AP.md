@@ -11,12 +11,7 @@
 ### 30/5/2025
 
 
-
-
-
-[img Proyecto]
-
-[Enlace a GITHUB del proyecto]
+[[Enlace a GITHUB del proyecto](https://github.com/pabloferugr/UX_CaseStudy)]
 
 
 
@@ -94,10 +89,11 @@ Ambos tienen una opinión de que la página no está cargada y que no es difíci
   ##### Eye Tracking:
 
   ###### Usuario 1:
-
+  <img src="./Usuario1AP.png" alt="Eye Tracking Usuario 2" style="zoom:50%;" />
 
   ###### Usuario 2:
 
+  <img src="./Usuario2AP.png" alt="Eye Tracking Usuario 2" style="zoom:50%;" />
 
 
 
