@@ -97,10 +97,10 @@ Ambos tienen una opinión de que la página no está cargada y que no es difíci
   ##### Eye Tracking:
 
   ###### Usuario 1:
-
+  <img src="./Usuario1COM.png" alt="Eye Tracking Usuario 1 COM" style="zoom:50%;" />
 
   ###### Usuario 2:
-
+  <img src="./Usuario2COM.png" alt="Eye Tracking Usuario 2 COM" style="zoom:50%;" />
 
 
 
