@@ -1,4 +1,4 @@
-Pracita de DIU2.AP
+Practita de DIU2.AP
 
 | USUARIO | 1 | 2 |
 | ---------- | -- | -- |
@@ -9,7 +9,7 @@ Pracita de DIU2.AP
 | ¿Reconocerías el logo si lo vieres en otro sitio? | 10 | 6 |
 | ¿Encontraste difícil ver la información de hoy? | 1 | 3 |
 
-Pracita de DIU2.COM
+Practita de DIU2.COM
 
 | USUARIO | 1 | 2 |
 | ---------- | -- | -- |
